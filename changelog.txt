@@ -1,0 +1,2 @@
+Versão 1.0.0.0
+- Lançamento inicial do Sistema Guardião 5S.
