@@ -1,3 +1,7 @@
-Versão 1.0.2.0
-- Controle de versão adicionado;
-- Botão de Concluir no Dashboard adicionado.
+Nova Versão 1.0.3.0 Lançada! 🚀
+Veja abaixo as melhorias e correções:
+- Tela de Login aprimorada com modal transparent;
+- Links no login e lembrar usuário funcionais;
+- INTERFACE DE USUÁRIO TODA REDESENHADA 😎😍;
+- Correções em campos dos formulários e Grid.
+
