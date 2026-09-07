@@ -1,4 +1,4 @@
-Nova Versão 1.0.3.0 Lançada! 🚀
+Nova Versão 1.1.0.0 Lançada! 🚀
 Veja abaixo as melhorias e correções:
 - Tela de Login aprimorada com modal transparent;
 - Links no login e lembrar usuário funcionais;
