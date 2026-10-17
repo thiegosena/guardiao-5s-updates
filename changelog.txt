@@ -1,7 +1,8 @@
-Nova Versão 1.2.0.0 Lançada! 🚀
+Nova Versão 1.2.1.0 Lançada! 🚀
 Veja abaixo as melhorias e correções:
+- Correções dos nomes Auditorias para Autoauditorias;
 - Escala da Ronda SEM Repetição de colaboradores;
-- Implementado Card de Auditoria próxima no Dashboard;
+- Implementado Card de Autoditoria próxima no Dashboard;
 - Correção da inversão de seleção da escala 5s semanal;
 - Correção do Bug de login de acesso;
 - Tela de Login aprimorada com modal transparent;
