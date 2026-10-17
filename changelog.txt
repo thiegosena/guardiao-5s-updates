@@ -1,4 +1,4 @@
-##  17-10-2026 - Versão 1.3.0.1 lançada!
+##  17-10-2026 - Versão 1.3.0.2 lançada!
 ### 🚀 Novidades
 - **Nova Interface de Usuário:** Toda redesenhada com visual moderno e otimizado.
 - **Card de Autoauditoria:** Adicionado atalho no Dashboard para visualizar a próxima autoauditoria programada.
