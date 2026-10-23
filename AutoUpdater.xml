@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.3.0.3</version>
-    <url>https://github.com/thiegosena/guardiao-5s-updates/releases/download/v1.3.0.3/SetupGuardiaoCincoSV1.3.0.3.exe</url>
+    <version>2.0.0.0</version>
+    <url>https://github.com/thiegosena/guardiao-5s-updates/releases/download/v2.0.0.0/SetupGuardiaoCincoSV2.0.0.0.exe</url>
     <changelog>https://raw.githubusercontent.com/thiegosena/guardiao-5s-updates/refs/heads/main/changelog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
